@@ -1,0 +1,9 @@
+@import 'tailwindcss/base';
+@import 'tailwindcss/components';
+@import 'tailwindcss/utilities';
+
+body{
+    background-color: #edebe6;
+    color: #6c6a4a;
+    font-family: "Georgia", serif;
+}
