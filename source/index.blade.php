@@ -12,7 +12,7 @@
         </h5>
         <h5 class="mb-3">
             Ha kapcsolatba szeretnél lépni velünk írj a <br>
-            <a class="my-3 text-green-900" href="permakulturakert@gmail.com">
+            <a class="my-3 text-green-900 font-bold" href="permakulturakert@gmail.com">
                 permakulturakert@gmail.com
             </a> <br>
             címre vagy a közösségi média felületeinken.
@@ -20,27 +20,27 @@
 
         <h5 class="mb-3">
             Ha szeretnél értesülni róla, hogy elkészült a weboldal itt tudsz feliratkozni:
-            <a href="">
+            <a href="" class="text-green-900 font-bold">
                 Feliratkozás!
             </a>
         </h5>
         <h5 class="mb-5">
             Köszönjük, ha megosztod!
         </h5>
-        <div class="text-green-900">
-            <a class="uppercase rounded border-2 border-green-900 p-2 mx-1" href="https://www.facebook.com/%C3%96kokert-permakult%C3%BAra-109929944787940">
+        <div class="links text-green-900 block items-center justify-center mx-auto flex xmd:block">
+            <a class="facebook-link block uppercase rounded border-2 border-green-900 p-2 mx-1 mb-0 xsm:mb-2 " href="https://www.facebook.com/%C3%96kokert-permakult%C3%BAra-109929944787940">
                 <i
                    class="p-2 w-12 fab fa-facebook-f fill-current text-green-900">
 
                 </i>
-                Megosztás Facebook
+                Kövess Facebook
             </a>
-            <a class="uppercase rounded border-2 border-green-900 p-2 mx-1" href="https://www.instagram.com/okokert_permakultura/">
+            <a class="instagram-link block uppercase rounded border-2 border-green-900 p-2 mx-1" href="https://www.instagram.com/okokert_permakultura/">
                 <i
                    class="p-2 w-12 fab fa-instagram fill-current text-green-900">
 
                 </i>
-                Megosztás Instagramon
+                Kövess Instagramon
             </a>
         </div>
     </div>
